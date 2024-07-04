@@ -43,3 +43,6 @@ doc
 .tool-versions
 .idea/
 app/assets/builds/
+
+#  Task Hexlet.
+INFO.md
